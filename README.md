@@ -1,4 +1,6 @@
 # Algorithm for QR Decomposition
+## NAME: Jayagar.T
+## REG.NO: 212224220042
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
